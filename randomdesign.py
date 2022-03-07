@@ -1,4 +1,4 @@
-from turtle import *
+
 import turtle
 import random
 
@@ -15,4 +15,4 @@ for i in range(300):
     a.pencolor(col[i%5])
     a.forward(i*3)
     a.right(b)
-   
+
